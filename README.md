@@ -6,7 +6,7 @@
 <h3 align="center">Développeur Full Stack Web et Mobile</h3>
 
 <p align="center">
-  <em>Développeur web et mobile polyvalent et créatif, dédié à la conception d'applications innovantes et hautement performantes. Je maîtrise aussi bien le développement front-end que back-end, ainsi que les outils de gestion de projet agile.</em>
+  <em>Développeur web et mobile passionné, toujours à la recherche de nouveaux défis et d'opportunités d'apprentissage.</em>
 </p>
 
 <div align="center">
@@ -30,9 +30,11 @@
 ---
 
 ## Langues
-- Français (courant)
-- Anglais (courant)
-- Lingala (langue maternelle)
+<div align="center">
+  <img src="https://img.shields.io/badge/Français-courant-green?style=flat-square" alt="Français">
+  <img src="https://img.shields.io/badge/Anglais-courant-green?style=flat-square" alt="Anglais">
+  <img src="https://img.shields.io/badge/Lingala-langue%20maternelle-green?style=flat-square" alt="Lingala">
+</div>
 
 ## Compétences techniques
 <div align="center">
@@ -62,14 +64,12 @@
   - Conception de bases de données pour le site internet (SQL)
 
 ## Formations
-- **Bac +2 en Développement web et mobile** (certificat Simplon) *(2023-2024)*
-  - Kadea Academy, Kinshasa
-- **Bac +5 (Licence) en Système d'Information et Administration des Bases de Données** *(2020-2022)*
-  - Institut Supérieur d'Informatique Programmation et Analyse, Kinshasa
-- **Bac +3 (Gradua) en Informatique de Gestion** *(2017-2020)*
-  - Institut Supérieur d'Informatique Programmation et Analyse, Kinshasa
-- **Diplôme d'État en Biochimie** *(2016-2017)*
-  - Institut scientifique mantuidi, Kinshasa
+<div align="center">
+  <img src="https://img.shields.io/badge/Bac%20%2B2-Développement%20web%20et%20mobile-yellow?style=flat-square" alt="Bac +2">
+  <img src="https://img.shields.io/badge/Bac%20%2B5-Système%20d'Information%20et%20Administration%20des%20Bases%20de%20Données-yellow?style=flat-square" alt="Bac +5">
+  <img src="https://img.shields.io/badge/Bac%20%2B3-Informatique%20de%20Gestion-yellow?style=flat-square" alt="Bac +3">
+  <img src="https://img.shields.io/badge/Diplôme%20d'État-Biochimie-yellow?style=flat-square" alt="Diplôme d'État">
+</div>
 
 ## Centres d'intérêt
 - Basketball
