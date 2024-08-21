@@ -4,9 +4,9 @@
     </h1>
 </div>
 
-<p align="left">
+<!-- <p align="left">
     <img width="40%" height="auto" src="./assets/rm-landing-logo.png"/>
-</p>
+</p> -->
 
 <h2 align="left"> 
     Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
@@ -23,7 +23,7 @@
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 🕒 Time Management and Agile Project Management(scrum)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (INSTITUT SUPERIEUR D'INFORMATIQUE PROGRAMMATION ET ANALYSE 2022)
-- 🌐 <strong>Visit My Portfolio : <a href="jamesbadibanga.com" target="_blank">randyassani.dev</a></strong>
+- 🌐 <strong>Visit My Portfolio : <a href="jamesbadibanga.com" target="_blank"> Criho James</a></strong>
 </div>
 
 ---
