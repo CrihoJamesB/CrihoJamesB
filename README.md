@@ -59,11 +59,3 @@
   <img src="https://img.shields.io/badge/Bac%20%2B3-Informatique%20de%20Gestion-yellow?style=flat-square" alt="Bac +3">
   <img src="https://img.shields.io/badge/Diplôme%20d'État-Biochimie-yellow?style=flat-square" alt="Diplôme d'État">
 </div>
-
-## Centres d'intérêt
-- Basketball
-  - Capitaine de l'équipe J&A de la Liprobakin pendant 5 ans
-
-## Références
-- Benedict Ossinga, Directeur Général, CONGOCYBERNETICS
-- Christian Mwanya, Coach Assistant | Développeur Fullstack, Kadea Academy
