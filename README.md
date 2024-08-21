@@ -45,10 +45,10 @@
 <h2>🤝 Connect with me</h2>
 
 <p align="left">
-  <a href="https://twitter.com/MafutalaG" title="Join me on Twitter">
+  <a href="https://x.com/crihojames" title="Join me on Twitter">
     <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/james-badibanga" title="Join me on LinkedIn">
+  <a href="www.linkedin.com/in/crihojames" title="Join me on LinkedIn">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:crihojames@gmail.com" title="Email me">
