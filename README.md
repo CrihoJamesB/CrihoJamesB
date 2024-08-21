@@ -48,7 +48,7 @@
   <a href="https://x.com/crihojames" title="Join me on Twitter">
     <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter"/>
   </a>
-  <a href="www.linkedin.com/in/crihojames" title="Join me on LinkedIn">
+  <a href="https://linkedin.com/in/crihojames" title="Join me on LinkedIn">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:crihojames@gmail.com" title="Email me">
