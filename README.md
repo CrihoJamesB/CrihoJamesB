@@ -33,7 +33,7 @@
 <div>
 <h2>📖 About me</h2>
     
-- 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development, UX/UI design & teaching 
+- 😄 I'm Software Engineer with a Computer Science degree and experience on computer engineering, <br/> software development & UX/UI design
 - 🎨 I design and develop all types of applications (web, mobile and desktop)
 - 🕒 Time Management and Agile Project Management(scrum)
 - 🎓 Graduated in Computer Engineering at the University of Kinshasa (INSTITUT SUPERIEUR D'INFORMATIQUE PROGRAMMATION ET ANALYSE 2022)
