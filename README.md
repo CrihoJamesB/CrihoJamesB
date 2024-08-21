@@ -27,8 +27,10 @@
 </div>
 
 ---
+<div>
+<h2>🤝 Connect with me</h2>
 
-<p>
+<p align="left">
   <a href="https://twitter.com/MafutalaG" title="Join me on Twitter">
     <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter"/>
   </a>
@@ -38,11 +40,8 @@
   <a href="mailto:crihojames@gmail.com" title="Email me">
     <img src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Gmail"/>
   </a>
-  <a href="https://jamesbadibanga.com" title="Email me">
-    <img src="https://icons8.com/icon/zxpI0TnsEBcK/internet" alt="Website"/>
-  </a>
 </p>
-
+</div>
 
 ---
 
