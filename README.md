@@ -9,11 +9,18 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Crihojames&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
+---
+
+<div>
 <h2 align="left"> 
     Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
     <br/>
     Welcome to my GitHub profile
 </h2>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+</div>
+
 
 ---
 
