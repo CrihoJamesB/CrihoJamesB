@@ -23,7 +23,7 @@
     <h2>🔥 My contribution sequence</h2>
     <p>
       <a href="https://github.com/Crihojames/github-readme-streak-stats">
-        <img alt="Randy-RM's stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=onedark&hide_border=true"/>
+        <img alt="Crihojames stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Crihojames&theme=onedark&hide_border=true"/>
       </a>
     </p>
 </div>
@@ -88,5 +88,4 @@
   <img src="https://img.shields.io/badge/Bac%20%2B2-Développement%20web%20et%20mobile-yellow?style=flat-square" alt="Bac +2">
   <img src="https://img.shields.io/badge/Bac%20%2B5-Système%20d'Information%20et%20Administration%20des%20Bases%20de%20Données-yellow?style=flat-square" alt="Bac +5">
   <img src="https://img.shields.io/badge/Bac%20%2B3-Informatique%20de%20Gestion-yellow?style=flat-square" alt="Bac +3">
-  <img src="https://img.shields.io/badge/Diplôme%20d'État-Biochimie-yellow?style=flat-square" alt="Diplôme d'État">
 </div>
