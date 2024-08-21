@@ -85,7 +85,7 @@
 
 ## Formations
 <div align="center">
-  <img src="https://img.shields.io/badge/Bac%20%2B2-Développement%20web%20et%20mobile-yellow?style=flat-square" alt="Bac +2">
-  <img src="https://img.shields.io/badge/Bac%20%2B5-Système%20d'Information%20et%20Administration%20des%20Bases%20de%20Données-yellow?style=flat-square" alt="Bac +5">
-  <img src="https://img.shields.io/badge/Bac%20%2B3-Informatique%20de%20Gestion-yellow?style=flat-square" alt="Bac +3">
+  <img src="https://img.shields.io/badge/Bachelor's%20(Bac%20%2B2)-Web%20and%20Mobile%20Development-yellow?style=flat-square" alt="Bachelor's (Bac +2)">
+  <img src="https://img.shields.io/badge/Master's%20(Bac%20%2B5)-Information%20Systems%20and%20Database%20Administration-yellow?style=flat-square" alt="Master's (Bac +5)">
+  <img src="https://img.shields.io/badge/Bachelor's%20(Bac%20%2B3)-Management%20Informatics-yellow?style=flat-square" alt="Bachelor's (Bac +3)">
 </div>
