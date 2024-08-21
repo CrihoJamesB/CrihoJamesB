@@ -4,6 +4,14 @@
     </h1>
 </div>
 
+<h2 align="left"> 
+    Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+    <br/>
+    Welcome to my GitHub profile
+</h2>
+
+---
+
 <a href="https://github.com/Crihojames/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/Crihojames/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Crihojames&column=10&theme=gruvbox&no-frame=true"/>
@@ -12,15 +20,13 @@
 ---
 
 <div>
-<h2 align="left"> 
-    Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-    <br/>
-    Welcome to my GitHub profile
-</h2>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Crihojames&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crihojames&layout=compact" />
+    <h2>🔥 My contribution sequence</h2>
+    <p>
+      <a href="https://github.com/Crihojames/github-readme-streak-stats">
+        <img alt="Randy-RM's stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Randy-RM&theme=onedark&hide_border=true"/>
+      </a>
+    </p>
 </div>
-
 
 ---
 
@@ -57,6 +63,24 @@
 ### Main Tech Stack
 
 <table>  <tr>  <th>Frontend</th>  <th>Backend</th>  <th>Fullstack</th>  <th>Database</th>  <th>Tools</th>  </tr>  <tr>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64px" height="64px"/><br />JavaScript </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="64px" height="64px"/><br />Node.js </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64px" height="64px"/><br />TypeScript </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" width="64px" height="64px"/><br />MongoDB </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="64px" height="64px"/><br />Figma </td>  </tr>  <tr>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64px" height="64px"/><br />React </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="64px" height="64px"/><br />Express </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="64px" height="64px"/><br />Next.js </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="64px" height="64px"/><br />Mongoose </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64px" height="64px"/><br />Git </td>  </tr>  <tr>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64px" height="64px"/><br />Tailwind CSS </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" width="64px" height="64px"/><br />AdonisJS </td>  <td></td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64px" height="64px"/><br />PostgreSQL </td>  <td></td>  </tr>  <tr>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="64px" height="64px"/><br />Redux Toolkit </td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="64px" height="64px"/><br />Firebase </td>  <td></td>  <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="64px" height="64px"/><br />Prisma </td>  </tr>  </table>
+
+<div>
+<h2>🔆 Github stats</h2>
+<div>
+<h3>🚀 GitHub profile stats</h3>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Crihojames Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crihojames&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&hide=&count_private=true" /></a>
+</div>
+
+<div>
+<h3>⚡ Most used languages</h3>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Crihojames Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randy-RM&theme=onedark&show_icons=true&hide_border=true&layout=compact" /></a>
+<br/><br/>
+<b>notice :</b> This graph is only a measure of the languages that make up my public <br/> code on GitHub and does not reflect my experience or skill level.
+<br/>
+</div>
+</div>
 
 
 ## Formations
