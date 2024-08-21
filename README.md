@@ -4,7 +4,10 @@
     </h1>
 </div>
 
-[![Dreeckan](https://github-profile-trophy.vercel.app/?username=dreeckan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/Crihojames/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/Crihojames/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Crihojames&column=10&theme=gruvbox&no-frame=true"/>
+</a>
 
 <h2 align="left"> 
     Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
