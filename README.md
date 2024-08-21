@@ -6,7 +6,7 @@
 <h3 align="center">Développeur Full Stack Web et Mobile</h3>
 
 <p align="center">
-  <em>Développeur web et mobile passionné, toujours à la recherche de nouveaux défis et d'opportunités d'apprentissage.</em>
+  <em>Développeur web et mobile polyvalent et créatif, dédié à la conception d'applications innovantes et hautement performantes. Je maîtrise aussi bien le développement front-end que back-end, ainsi que les outils de gestion de projet agile.</em>
 </p>
 
 <div align="center">
