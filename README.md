@@ -1,25 +1,38 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 # James BADIBANGA
-## Développeur Full Stack web et mobile
+### Développeur Full Stack web et mobile
 
 <p><em>Développeur web et mobile polyvalent et créatif, dédié à la conception d'applications innovantes et hautement performantes. Je maîtrise aussi bien le développement front-end que back-end, ainsi que les outils de gestion de projet agile.</em></p>
+
+---
+
+<div align="center">
+  <a href="mailto:crihojames@gmail.com">
+    <img src="https://img.shields.io/badge/Email-crihojames%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="tel:+243828585837">
+    <img src="https://img.shields.io/badge/Phone-+243%20828%20585%20837-blue?style=flat-square&logo=whatsapp" alt="Phone">
+  </a>
+  <a href="https://jamesbadibanga.com">
+    <img src="https://img.shields.io/badge/Website-jamesbadibanga.com-blue?style=flat-square&logo=internet-explorer" alt="Website">
+  </a>
+  <a href="https://linkedin.com/james-badibanga">
+    <img src="https://img.shields.io/badge/LinkedIn-james--badibanga-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Crihojames">
+    <img src="https://img.shields.io/badge/GitHub-Crihojames-blue?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</div>
+
+---
 
 ### Langues
 - Français (courant)
 - Anglais (courant) 
 - Lingala (langue maternelle)
 
-### Contact
-- 📧 crihojames@gmail.com
-- 📱 +243 828 585 837
-- 🌐 [jamesbadibanga.com](https://jamesbadibanga.com)
-- 🔗 [LinkedIn](https://linkedin.com/james-badibanga)
-- 🐙 [GitHub](https://github.com/Crihojames)
-
-### Profil
-Développeur web et mobile passionné, toujours à la recherche de nouveaux défis et d'opportunités d'apprentissage. Mes compétences techniques incluent :
-
+### Compétences techniques
 **Développement web et mobile**
 - Front-end : HTML, CSS, JavaScript, React-js, Tailwind-CSS, Bootstrap
 - Back-end : Express-js, Node-js
