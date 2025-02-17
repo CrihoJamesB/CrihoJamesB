@@ -183,4 +183,4 @@
 - 🚀 Plus de 500 contributions sur GitHub en 2023
 - 💡 15+ projets open source
 - ⭐ 1000+ commits
-- 🌟 Contributions à des projets majeurs
+- 🌟 Contributions à des projets majeurs.
