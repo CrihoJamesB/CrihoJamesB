@@ -184,3 +184,4 @@
 - 💡 15+ projets open source
 - ⭐ 1000+ commits
 - 🌟 Contributions à des projets majeurs.
+
