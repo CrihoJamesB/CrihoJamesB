@@ -1,8 +1,8 @@
 # 👋 Criho </> ʝames 🚀
 
-[![Visiteurs](https://komarev.com/ghpvc/?username=Crihojames&color=D32F2F&style=flat-square)](https://github.com/Crihojames)
-[![Followers](https://img.shields.io/github/followers/Crihojames?style=flat-square&color=D32F2F)](https://github.com/Crihojames?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Crihojames?style=flat-square&color=D32F2F)](https://github.com/Crihojames?tab=repositories)
+[![Visiteurs](https://komarev.com/ghpvc/?username=Crihojames&color=D32F2F&style=flat-square)](https://github.com/Crihojamesb)
+[![Followers](https://img.shields.io/github/followers/Crihojames?style=flat-square&color=D32F2F)](https://github.com/Crihojamesb?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Crihojames?style=flat-square&color=D32F2F)](https://github.com/Crihojamesb?tab=repositories)
 
 <div align="center">
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Crihojames">
+<a href="https://github.com/Crihojamesb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crihojames&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crihojames&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8"/>
 </a>
@@ -150,8 +150,8 @@
 
 <div align="center">
 
-[![E-commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Crihojames&repo=ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Crihojames/ecommerce-platform)
-[![CMS Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Crihojames&repo=cms-dashboard&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Crihojames/cms-dashboard)
+[![E-commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Crihojames&repo=ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Crihojamesb/ecommerce-platform)
+[![CMS Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Crihojames&repo=cms-dashboard&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Crihojamesb/cms-dashboard)
 
 </div>
 
@@ -160,7 +160,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/crihojames)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Crihojames)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Crihojamesb)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/crihojames)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/crihojames)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@crihojames)
