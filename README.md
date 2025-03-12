@@ -173,7 +173,7 @@
 
 **💼 Disponible pour de nouveaux projets et collaborations 💼**
 
-*"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais." – Cory House*
+*"Stay hungry, stay foolish, stay passionate - Building tomorrow's solutions today 💫"*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D32F2F&center=true&vCenter=true&width=435&lines=Passionn%C3%A9+par+le+d%C3%A9veloppement+web;Toujours+en+qu%C3%AAte+d'innovation;Cr%C3%A9ons+ensemble+!)](https://git.io/typing-svg)
 
