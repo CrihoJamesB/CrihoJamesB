@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**🎯 Software Engineer | 💻 Full-Stack Developer | 🎨 Webdesigner | 📱 Mobile Developer**
+**🎯 Software Engineer | 💻 Full-Stack Developer | 🎨 UI/UX Designer | 📱 Mobile Developer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-criho.tech-D32F2F?style=for-the-badge&logoColor=white)](https://criho.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/crihojames)
@@ -16,17 +16,17 @@
 
 ## 🧑‍💻 À Propos
 
-> Assistant IT & Développeur Full Stack senior avec plus de 6 ans d'expérience, basé à Kinshasa (RD Congo). Expert en développement Python/Django, PHP/Laravel et JavaScript/React, je combine expertise technique et créativité pour développer des solutions web innovantes et scalables.
+> Ingénieur Logiciel & Développeur Full Stack senior avec plus de 6 ans d'expérience, basé à Kinshasa (RD Congo). Spécialisé dans la création de solutions digitales innovantes, je combine expertise technique et vision stratégique pour développer des applications performantes et évolutives.
 
-### 🎯 Points clés
-- 🚀 Plus de 6 ans d'expérience en développement web et mobile
-- 💻 Expert Python/Django avec spécialisation en Data Science
-- ⚡ Maîtrise avancée de PHP/Laravel et architecture MVC
-- 🎯 Expertise en Java/Spring Boot pour applications d'entreprise
-- 🌐 Développement d'applications web haute performance
-- 📊 Expérience en analyse de données et Machine Learning
-- 🤝 Leadership technique et gestion d'équipe
-- 📱 Développement mobile cross-platform (React Native, Flutter)
+### 🎯 Compétences Clés
+- 🚀 Architecture de solutions complexes et scalables
+- 💻 Développement Full Stack (Python/Django, PHP/Laravel, JavaScript/React)
+- 🎨 Conception UI/UX et développement d'interfaces responsive
+- 📱 Développement mobile natif et cross-platform
+- 🔒 Sécurité des applications et gestion des données
+- 📊 Data Science et Intelligence Artificielle
+- 🤝 Leadership technique et gestion de projets agiles
+- ⚡ Optimisation des performances et DevOps
 
 ### 💡 Domaines d'expertise
 - Architecture de microservices
@@ -114,6 +114,16 @@
 
 </details>
 
+## 📈 Metrics & Impact
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crihojames&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crihojames&theme=radical" width="100%" />
+
+</div>
+
 ## 📊 Statistiques GitHub
 
 <div align="center">
@@ -171,17 +181,18 @@
 
 <div align="center">
 
-**💼 Disponible pour de nouveaux projets et collaborations 💼**
+**💼 Ouvert aux opportunités de collaboration et aux projets innovants 💼**
 
 *"Stay hungry, stay foolish, stay passionate - Building tomorrow's solutions today 💫"*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D32F2F&center=true&vCenter=true&width=435&lines=Passionn%C3%A9+par+le+d%C3%A9veloppement+web;Toujours+en+qu%C3%AAte+d'innovation;Cr%C3%A9ons+ensemble+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D32F2F&center=true&vCenter=true&width=435&lines=Architecte+de+solutions+innovantes;Expert+en+d%C3%A9veloppement+Full+Stack;Passionn%C3%A9+par+l'excellence+technique)](https://git.io/typing-svg)
 
 </div>
 
 ### 🏆 Réalisations Majeures
-- 🚀 Plus de 500 contributions sur GitHub en 2023
-- 💡 15+ projets open source
-- ⭐ 1000+ commits
-- 🌟 Contributions à des projets majeurs.
+- 🚀 Développement de solutions utilisées par plus de 100K utilisateurs
+- 💡 Contribution à 15+ projets open source majeurs
+- ⭐ Plus de 1000 commits et 500+ contributions en 2023
+- 📚 Mentor technique pour plus de 50 développeurs juniors
+- 🌟 Reconnaissance par la communauté tech africaine
 
