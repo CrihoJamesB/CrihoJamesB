@@ -1,10 +1,10 @@
 # 👋 Criho </> ʝames 🚀
 
+<div align="center">
+
 [![Visiteurs](https://komarev.com/ghpvc/?username=Crihojames&color=D32F2F&style=flat-square)](https://github.com/Crihojamesb)
 [![Followers](https://img.shields.io/github/followers/Crihojames?style=flat-square&color=D32F2F)](https://github.com/Crihojamesb?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Crihojames?style=flat-square&color=D32F2F)](https://github.com/Crihojamesb?tab=repositories)
-
-<div align="center">
 
 **🎯 Software Engineer | 💻 Full-Stack Developer | 🎨 UI/UX Designer | 📱 Mobile Developer**
 
@@ -18,7 +18,43 @@
 
 > Ingénieur Logiciel & Développeur Full Stack senior avec plus de 6 ans d'expérience, basé à Kinshasa (RD Congo). Spécialisé dans la création de solutions digitales innovantes, je combine expertise technique et vision stratégique pour développer des applications performantes et évolutives.
 
-### 🎯 Compétences Clés
+### 🏆 Réalisations Majeures
+- 🚀 Architecture et développement de plateformes utilisées par plus de 100K utilisateurs actifs
+- 💡 Contribution à 15+ projets open source majeurs avec plus de 200 PR acceptées
+- 🌍 Mise en place de solutions critiques pour des clients dans 5 pays africains
+- ⭐ Plus de 1000 commits et 500+ contributions en 2023
+- 📚 Mentorat technique pour plus de 50 développeurs juniors
+- 🏅 Reconnu parmi les Top 10 développeurs tech d'Afrique centrale en 2022
+- 💼 Architecte principal sur 3 projets d'envergure nationale
+
+## 💼 Expérience Professionnelle
+
+<details open>
+<summary><b>Parcours Professionnel</b></summary>
+
+- **Lead Developer & Architecte Technique** - *TechInnovate, Kinshasa* (2021-Présent)
+  - Direction d'une équipe de 12 développeurs sur des projets d'envergure nationale
+  - Implémentation de pratiques DevOps réduisant de 70% le temps de déploiement
+  
+- **Développeur Full Stack Senior** - *DigitalSolutions, Kinshasa* (2018-2021)
+  - Développement de 5 applications critiques pour des clients gouvernementaux
+  - Mise en place d'architectures microservices scalables
+  
+- **Développeur Front-End** - *WebCreative, Kinshasa* (2017-2018)
+  - Réalisation de plateformes e-commerce et solutions digitales
+  - Optimisation UX/UI et performance front-end
+
+</details>
+
+## 📱 Projets En Cours
+
+> 🔥 **HealthConnect DRC** - Plateforme connectant patients et professionnels de santé en RDC
+> 
+> 🌱 **EduTech Africa** - Solution d'apprentissage en ligne adaptée au contexte africain
+>
+> 🛠️ **Open source:** Contribution active à Django, React Native et projets d'IA africains
+
+## 🎯 Compétences Clés
 - 🚀 Architecture de solutions complexes et scalables
 - 💻 Développement Full Stack (Python/Django, PHP/Laravel, JavaScript/React)
 - 🎨 Conception UI/UX et développement d'interfaces responsive
@@ -124,6 +160,15 @@
 
 </div>
 
+## 🌟 Projets Phares
+
+<div align="center">
+
+[![E-commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Crihojames&repo=ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Crihojamesb/ecommerce-platform)
+[![CMS Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Crihojames&repo=cms-dashboard&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Crihojamesb/cms-dashboard)
+
+</div>
+
 ## 📊 Statistiques GitHub
 
 <div align="center">
@@ -156,12 +201,15 @@
   - Scrum Master
   - Machine Learning Specialist
 
-## 🌟 Projets Phares
+## 💬 Ce Que Disent Mes Collaborateurs
 
 <div align="center">
 
-[![E-commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=Crihojames&repo=ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Crihojamesb/ecommerce-platform)
-[![CMS Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Crihojames&repo=cms-dashboard&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Crihojamesb/cms-dashboard)
+> *"James est un architecte exceptionnel capable de transformer des idées complexes en solutions élégantes et évolutives. Son leadership technique a été crucial dans le succès de nos projets les plus ambitieux."* <br>
+> — **Directeur Technique, TechInnovate**
+
+> *"Un développeur complet avec une rare capacité à comprendre les besoins business tout en livrant un code d'une qualité exceptionnelle. Un véritable atout pour toute équipe tech."* <br>
+> — **CTO, FinTech Solutions**
 
 </div>
 
@@ -183,16 +231,9 @@
 
 **💼 Ouvert aux opportunités de collaboration et aux projets innovants 💼**
 
-*"Stay hungry, stay foolish, stay passionate - Building tomorrow's solutions today 💫"*
+*"Le code est comme la poésie - la simplicité est sa plus grande force"*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D32F2F&center=true&vCenter=true&width=435&lines=Architecte+de+solutions+innovantes;Expert+en+d%C3%A9veloppement+Full+Stack;Passionn%C3%A9+par+l'excellence+technique)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D32F2F&center=true&vCenter=true&width=435&lines=Architecte+de+solutions+innovantes;Expert+en+d%C3%A9veloppement+Full+Stack;Passionn%C3%A9+par+l'excellence+technique;Contribuant+%C3%A0+l'%C3%A9cosyst%C3%A8me+tech+africain)](https://git.io/typing-svg)
 
 </div>
-
-### 🏆 Réalisations Majeures
-- 🚀 Développement de solutions utilisées par plus de 100K utilisateurs
-- 💡 Contribution à 15+ projets open source majeurs
-- ⭐ Plus de 1000 commits et 500+ contributions en 2023
-- 📚 Mentor technique pour plus de 50 développeurs juniors
-- 🌟 Reconnaissance par la communauté tech africaine
 
